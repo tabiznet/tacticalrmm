@@ -8,7 +8,7 @@
       <q-toolbar>
         <q-btn dense flat push @click="refreshEntireSite" icon="refresh" />
         <q-toolbar-title>
-          Tactical RMM<span class="text-overline">&nbsp;&nbsp;&nbsp;v{{ currentTRMMVersion }}</span>
+          TAB RMM<span class="text-overline">&nbsp;&nbsp;&nbsp;v{{ currentTRMMVersion }}</span>
         </q-toolbar-title>
 
         <!-- temp dark mode toggle -->
